@@ -1,5 +1,9 @@
 # stackoverflow_analysis
 
+Download and extract the zip file and run in Jypter notebook ,all the files should be in same directory 
+
+DEATILS OF PROJECT-
+
 Project Stack Overflow Survey (Matplotlib and Seaborn)
 Instructions -
 
